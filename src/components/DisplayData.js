@@ -1,6 +1,6 @@
 // src/components/DisplayData
 import React from 'react';
- 
+
 class DisplayData extends React.Component {
   render() {
     return (
@@ -11,5 +11,5 @@ class DisplayData extends React.Component {
     )
   }
 }
- 
+
 export default DisplayData
